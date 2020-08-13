@@ -1,6 +1,2 @@
-# github-deneme
-github deneme
-
-değişiklik yaptım...
-
-develope branchi üzerinde değişiklik yaptım...
+def function(a, b):
+  return a+b
